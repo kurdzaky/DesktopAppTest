@@ -9,7 +9,7 @@ Windows OS
 .NET Core SDK installed on your machine. 
 Calculator application installed and running.
 Recommended VisualStudio as it better integrated with C#(.NET)!
-
+Windows Calculator version 11.2403.6.0
 
 Running the Tests Follow these steps to run the automated tests:
 
