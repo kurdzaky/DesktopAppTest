@@ -1,0 +1,72 @@
+[Info - 11:46:38] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableVerticalScrollBar=Vertical Scroll Bar for White/UIItemId
+[Info - 11:46:38] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableHorizontalScrollBar=Horizontal Scroll Bar for White/UIItemId
+[Info - 11:46:38] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableColumn=Row  for White/UIItemId
+[Info - 11:46:38] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableTopLeftHeaderCell=Top Left Header Cell for White/UIItemId
+[Info - 11:46:38] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableCellNullValue=(null) for White/UIItemId
+[Info - 11:46:38] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableHeader=Top Row for White/UIItemId
+[Info - 11:46:38] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using HorizontalScrollBar=Horizontal ScrollBar for White/UIItemId
+[Info - 11:46:38] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using VerticalScrollBar=Vertical ScrollBar for White/UIItemId
+[Info - 11:46:38] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableCellPrefix= Row  for White/UIItemId
+[Warn - 11:46:38] 'TestStack.White.UIItems.UIItem' Window with title: TestProject1 - Microsoft Visual Studio whose dimensions are: -9;-9;1938;1038, is not contained completely on the desktop 0;0;1920;1080. 
+UI actions on window needing mouse would not work in area not falling under the desktop
+[Warn - 11:46:38] 'TestStack.White.UIItems.UIItem' Window with title: inspect - Результаты поиска в "Windows Kits" whose dimensions are: -9;-9;1938;1038, is not contained completely on the desktop 0;0;1920;1080. 
+UI actions on window needing mouse would not work in area not falling under the desktop
+Is window NULL: Калькулятор
+[Warn - 11:46:39] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:TitleBar, Name:Калькулятор, ControlType:window, FrameworkId:Win32
+[Warn - 11:46:39] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:SystemMenuBar, Name:Система, ControlType:menu bar, FrameworkId:
+[Warn - 11:46:39] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:, Name:Калькулятор, ControlType:window, FrameworkId:XAML
+[Warn - 11:46:39] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:AppName, Name:Калькулятор, ControlType:text, FrameworkId:XAML
+[Warn - 11:46:39] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:NavView, Name:, ControlType:custom, FrameworkId:XAML
+[Warn - 11:46:39] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:PaneTitleTextBlock, Name:, ControlType:text, FrameworkId:XAML
+[Warn - 11:46:39] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:CalculatorExpression, Name:Выражение — , ControlType:text, FrameworkId:XAML
+[Warn - 11:46:39] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:CalculatorResults, Name:Отображать как 0, ControlType:text, FrameworkId:XAML
+[Warn - 11:46:39] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:Header, Name:Режим калькулятора Обычный, ControlType:text, FrameworkId:XAML
+All elements:
+AutomationId: Minimize
+AutomationId: Maximize
+AutomationId: Close
+AutomationId: TogglePaneButton
+AutomationId: 
+AutomationId: HistoryButton
+AutomationId: MemoryPanel
+AutomationId: ClearMemoryButton
+AutomationId: MemRecall
+AutomationId: MemPlus
+AutomationId: MemMinus
+AutomationId: memButton
+AutomationId: MemoryButton
+AutomationId: DisplayControls
+AutomationId: percentButton
+AutomationId: clearEntryButton
+AutomationId: clearButton
+AutomationId: backSpaceButton
+AutomationId: StandardFunctions
+AutomationId: invertButton
+AutomationId: xpower2Button
+AutomationId: squareRootButton
+AutomationId: StandardOperators
+AutomationId: divideButton
+AutomationId: multiplyButton
+AutomationId: minusButton
+AutomationId: plusButton
+AutomationId: equalButton
+AutomationId: NumberPad
+AutomationId: num0Button
+AutomationId: num1Button
+AutomationId: num2Button
+AutomationId: num3Button
+AutomationId: num4Button
+AutomationId: num5Button
+AutomationId: num6Button
+AutomationId: num7Button
+AutomationId: num8Button
+AutomationId: num9Button
+AutomationId: decimalSeparatorButton
+AutomationId: negateButton
+AutomationId: NormalAlwaysOnTopButton
+AutomationId: 
+AutomationId: SystemMenuBar
+AutomationId: Minimize
+AutomationId: Maximize
+AutomationId: Close
+window name is Калькулятор

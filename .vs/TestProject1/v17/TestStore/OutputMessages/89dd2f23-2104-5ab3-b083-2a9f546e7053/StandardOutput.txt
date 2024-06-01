@@ -1,0 +1,456 @@
+[Info - 13:25:57] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableVerticalScrollBar=Vertical Scroll Bar for White/UIItemId
+[Info - 13:25:57] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableHorizontalScrollBar=Horizontal Scroll Bar for White/UIItemId
+[Info - 13:25:57] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableColumn=Row  for White/UIItemId
+[Info - 13:25:57] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableTopLeftHeaderCell=Top Left Header Cell for White/UIItemId
+[Info - 13:25:57] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableCellNullValue=(null) for White/UIItemId
+[Info - 13:25:57] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableHeader=Top Row for White/UIItemId
+[Info - 13:25:57] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using HorizontalScrollBar=Horizontal ScrollBar for White/UIItemId
+[Info - 13:25:57] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using VerticalScrollBar=Vertical ScrollBar for White/UIItemId
+[Info - 13:25:57] 'TestStack.White.Configuration.UIItemIdAppXmlConfiguration' Using TableCellPrefix= Row  for White/UIItemId
+[Warn - 13:25:57] 'TestStack.White.UIItems.UIItem' Window with title: TestProject1 - Microsoft Visual Studio whose dimensions are: -9;-9;1938;1038, is not contained completely on the desktop 0;0;1920;1080. 
+UI actions on window needing mouse would not work in area not falling under the desktop
+[Warn - 13:25:57] 'TestStack.White.UIItems.UIItem' Window with title: TestProject1 - Microsoft Visual Studio whose dimensions are: -9;-9;1938;1038, is not contained completely on the desktop 0;0;1920;1080. 
+UI actions on window needing mouse would not work in area not falling under the desktop
+window is Калькулятор
+[Warn - 13:25:58] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:TitleBar, Name:Калькулятор, ControlType:window, FrameworkId:Win32
+[Warn - 13:25:58] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:SystemMenuBar, Name:Система, ControlType:menu bar, FrameworkId:
+[Warn - 13:25:58] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:, Name:Калькулятор, ControlType:window, FrameworkId:XAML
+[Warn - 13:25:58] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:AppName, Name:Калькулятор, ControlType:text, FrameworkId:XAML
+[Warn - 13:25:58] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:NavView, Name:, ControlType:custom, FrameworkId:XAML
+[Warn - 13:25:58] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:PaneTitleTextBlock, Name:, ControlType:text, FrameworkId:XAML
+[Warn - 13:25:58] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:CalculatorExpression, Name:Выражение — , ControlType:text, FrameworkId:XAML
+[Warn - 13:25:58] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:CalculatorResults, Name:Отображать как 0, ControlType:text, FrameworkId:XAML
+[Warn - 13:25:58] 'TestStack.White.UIItems.UIItemCollection' Couldn't create UIItem for AutomationElement, AutomationId:Header, Name:Режим калькулятора Обычный, ControlType:text, FrameworkId:XAML
+elements are TestStack.White.UIItems.UIItemCollection
+Element Information:
+  Name: Свернуть Калькулятор
+  AutomationId: Minimize
+  ControlType: ControlType.Button
+  ClassName: 
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1349;169;57;40
+  FrameworkId: 
+Element Information:
+  Name: Развернуть Калькулятор
+  AutomationId: Maximize
+  ControlType: ControlType.Button
+  ClassName: 
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1406;169;57;40
+  FrameworkId: 
+Element Information:
+  Name: Закрыть Калькулятор
+  AutomationId: Close
+  ControlType: ControlType.Button
+  ClassName: 
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1463;169;57;40
+  FrameworkId: 
+Element Information:
+  Name: Открыть навигацию
+  AutomationId: TogglePaneButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1125;217;50;45
+  FrameworkId: XAML
+Element Information:
+  Name: 
+  AutomationId: 
+  ControlType: ControlType.Group
+  ClassName: LandmarkTarget
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1120;219;400;610
+  FrameworkId: XAML
+Element Information:
+  Name: Открыть всплывающее меню журнала
+  AutomationId: HistoryButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1470;219;40;40
+  FrameworkId: XAML
+Element Information:
+  Name: Элементы управления памятью
+  AutomationId: MemoryPanel
+  ControlType: ControlType.Group
+  ClassName: NamedContainerAutomationPeer
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1125;393;391;38
+  FrameworkId: XAML
+Element Information:
+  Name: Очистка всей памяти
+  AutomationId: ClearMemoryButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: False
+  IsOffscreen: False
+  BoundingRectangle: 1125;393;63;38
+  FrameworkId: XAML
+Element Information:
+  Name: Вызов из памяти
+  AutomationId: MemRecall
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: False
+  IsOffscreen: False
+  BoundingRectangle: 1190;393;63;38
+  FrameworkId: XAML
+Element Information:
+  Name: Добавление памяти
+  AutomationId: MemPlus
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1255;393;63;38
+  FrameworkId: XAML
+Element Information:
+  Name: Вычитание памяти
+  AutomationId: MemMinus
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1321;393;63;38
+  FrameworkId: XAML
+Element Information:
+  Name: Сохранение в памяти
+  AutomationId: memButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1387;393;63;38
+  FrameworkId: XAML
+Element Information:
+  Name: Открыть всплывающее меню памяти
+  AutomationId: MemoryButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: False
+  IsOffscreen: False
+  BoundingRectangle: 1453;393;63;38
+  FrameworkId: XAML
+Element Information:
+  Name: Элементы управления отображением
+  AutomationId: DisplayControls
+  ControlType: ControlType.Group
+  ClassName: NamedContainerAutomationPeer
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1125;434;390;63
+  FrameworkId: XAML
+Element Information:
+  Name: Процент
+  AutomationId: percentButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1125;434;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Очистить запись
+  AutomationId: clearEntryButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1222;434;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Очистить
+  AutomationId: clearButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1321;434;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Удаление предыдущего символа
+  AutomationId: backSpaceButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1419;434;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Стандартные функции
+  AutomationId: StandardFunctions
+  ControlType: ControlType.Group
+  ClassName: NamedContainerAutomationPeer
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1125;500;292;63
+  FrameworkId: XAML
+Element Information:
+  Name: Обратная величина
+  AutomationId: invertButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1125;500;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Квадрат
+  AutomationId: xpower2Button
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1222;500;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Квадратный корень
+  AutomationId: squareRootButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1321;500;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Стандартные операторы
+  AutomationId: StandardOperators
+  ControlType: ControlType.Group
+  ClassName: NamedContainerAutomationPeer
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1419;500;96;328
+  FrameworkId: XAML
+Element Information:
+  Name: Разделить на
+  AutomationId: divideButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1419;500;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Умножить на
+  AutomationId: multiplyButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1419;567;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Минус
+  AutomationId: minusButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1419;632;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Плюс
+  AutomationId: plusButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1419;698;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Равно
+  AutomationId: equalButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1419;764;96;64
+  FrameworkId: XAML
+Element Information:
+  Name: Числовая панель
+  AutomationId: NumberPad
+  ControlType: ControlType.Group
+  ClassName: NamedContainerAutomationPeer
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1125;566;292;262
+  FrameworkId: XAML
+Element Information:
+  Name: Нуль
+  AutomationId: num0Button
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1222;765;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Один
+  AutomationId: num1Button
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1125;698;96;64
+  FrameworkId: XAML
+Element Information:
+  Name: Два
+  AutomationId: num2Button
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1222;698;96;64
+  FrameworkId: XAML
+Element Information:
+  Name: Три
+  AutomationId: num3Button
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1321;698;96;64
+  FrameworkId: XAML
+Element Information:
+  Name: Четыре
+  AutomationId: num4Button
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1125;633;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Пять
+  AutomationId: num5Button
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1222;633;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Шесть
+  AutomationId: num6Button
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1321;633;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Семь
+  AutomationId: num7Button
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1125;566;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Восемь
+  AutomationId: num8Button
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1222;566;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Девять
+  AutomationId: num9Button
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1321;566;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Десятичный разделитель
+  AutomationId: decimalSeparatorButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1321;765;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Положительное отрицательное
+  AutomationId: negateButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1125;766;96;63
+  FrameworkId: XAML
+Element Information:
+  Name: Поверх остальных окон
+  AutomationId: NormalAlwaysOnTopButton
+  ControlType: ControlType.Button
+  ClassName: Button
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1309;219;40;40
+  FrameworkId: XAML
+Element Information:
+  Name: 
+  AutomationId: 
+  ControlType: ControlType.Pane
+  ClassName: ApplicationFrameInputSinkWindow
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1120;209;400;625
+  FrameworkId: Win32
+Element Information:
+  Name: System Menu Bar
+  AutomationId: SystemMenuBar
+  ControlType: ControlType.MenuBar
+  ClassName: 
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1120;177;28;28
+  FrameworkId: Win32
+Element Information:
+  Name: Minimize
+  AutomationId: Minimize
+  ControlType: ControlType.Button
+  ClassName: 
+  IsEnabled: True
+  IsOffscreen: True
+  BoundingRectangle: Empty
+  FrameworkId: Win32
+Element Information:
+  Name: Maximize
+  AutomationId: Maximize
+  ControlType: ControlType.Button
+  ClassName: 
+  IsEnabled: True
+  IsOffscreen: True
+  BoundingRectangle: Empty
+  FrameworkId: Win32
+Element Information:
+  Name: Close
+  AutomationId: Close
+  ControlType: ControlType.Button
+  ClassName: 
+  IsEnabled: True
+  IsOffscreen: True
+  BoundingRectangle: Empty
+  FrameworkId: Win32
+TitleBar element found:
+  Name: Калькулятор
+  AutomationId: TitleBar
+  ControlType: ControlType.Window
+  ClassName: ApplicationFrameTitleBarWindow
+  IsEnabled: True
+  IsOffscreen: False
+  BoundingRectangle: 1287;169;233;40
+  FrameworkId: Win32

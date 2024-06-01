@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kurdb\\source\\repos\\TestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D93C020-3E0D-45E9-8443-3EFF2CA4C387}|TestProject1\\TestProject1.csproj|c:\\users\\kurdb\\source\\repos\\testproject1\\testproject1\\src\\test\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D93C020-3E0D-45E9-8443-3EFF2CA4C387}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\src\\test\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D93C020-3E0D-45E9-8443-3EFF2CA4C387}|TestProject1\\TestProject1.csproj|c:\\users\\kurdb\\source\\repos\\testproject1\\testproject1\\src\\main\\operations\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D93C020-3E0D-45E9-8443-3EFF2CA4C387}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\src\\main\\operations\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D93C020-3E0D-45E9-8443-3EFF2CA4C387}|TestProject1\\TestProject1.csproj|c:\\users\\kurdb\\source\\repos\\testproject1\\testproject1\\src\\main\\dataproviders\\dataproviders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D93C020-3E0D-45E9-8443-3EFF2CA4C387}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\src\\main\\dataproviders\\dataproviders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D93C020-3E0D-45E9-8443-3EFF2CA4C387}|TestProject1\\TestProject1.csproj|c:\\users\\kurdb\\source\\repos\\testproject1\\testproject1\\src\\main\\locators\\locators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D93C020-3E0D-45E9-8443-3EFF2CA4C387}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\src\\main\\locators\\locators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D93C020-3E0D-45E9-8443-3EFF2CA4C387}|TestProject1\\TestProject1.csproj|c:\\users\\kurdb\\source\\repos\\testproject1\\testproject1\\src\\main\\basetestconfigurations\\testconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D93C020-3E0D-45E9-8443-3EFF2CA4C387}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\src\\main\\basetestconfigurations\\testconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataProviders.cs",
+              "DocumentMoniker": "C:\\Users\\kurdb\\source\\repos\\TestProject1\\TestProject1\\src\\main\\DataProviders\\DataProviders.cs",
+              "RelativeDocumentMoniker": "TestProject1\\src\\main\\DataProviders\\DataProviders.cs",
+              "ToolTip": "C:\\Users\\kurdb\\source\\repos\\TestProject1\\TestProject1\\src\\main\\DataProviders\\DataProviders.cs",
+              "RelativeToolTip": "TestProject1\\src\\main\\DataProviders\\DataProviders.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:48:12.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\kurdb\\source\\repos\\TestProject1\\TestProject1\\src\\main\\Operations\\Operations.cs",
+              "RelativeDocumentMoniker": "TestProject1\\src\\main\\Operations\\Operations.cs",
+              "ToolTip": "C:\\Users\\kurdb\\source\\repos\\TestProject1\\TestProject1\\src\\main\\Operations\\Operations.cs",
+              "RelativeToolTip": "TestProject1\\src\\main\\Operations\\Operations.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:12:55.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Locators.cs",
+              "DocumentMoniker": "C:\\Users\\kurdb\\source\\repos\\TestProject1\\TestProject1\\src\\main\\Locators\\Locators.cs",
+              "RelativeDocumentMoniker": "TestProject1\\src\\main\\Locators\\Locators.cs",
+              "ToolTip": "C:\\Users\\kurdb\\source\\repos\\TestProject1\\TestProject1\\src\\main\\Locators\\Locators.cs",
+              "RelativeToolTip": "TestProject1\\src\\main\\Locators\\Locators.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:28:08.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\kurdb\\source\\repos\\TestProject1\\TestProject1\\src\\main\\BaseTestConfigurations\\TestConfigurations.cs",
+              "RelativeDocumentMoniker": "TestProject1\\src\\main\\BaseTestConfigurations\\TestConfigurations.cs",
+              "ToolTip": "C:\\Users\\kurdb\\source\\repos\\TestProject1\\TestProject1\\src\\main\\BaseTestConfigurations\\TestConfigurations.cs",
+              "RelativeToolTip": "TestProject1\\src\\main\\BaseTestConfigurations\\TestConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:44:55.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\kurdb\\source\\repos\\TestProject1\\TestProject1\\src\\test\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\src\\test\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\kurdb\\source\\repos\\TestProject1\\TestProject1\\src\\test\\CalculatorTests.cs",
+              "RelativeToolTip": "TestProject1\\src\\test\\CalculatorTests.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwEUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:31:28.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
